@@ -34,12 +34,11 @@ Project to practice HTML and CSS
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
 
 
 ### What I learned
 
-I learned Flexbox, how to style a image
+I learned Flexbox, how to style a image.
 
 ### Continued development
 
@@ -47,5 +46,5 @@ In the next projects I want to manipulate DOM therefore I will include JS in the
 
 ## Author
 
-- Website - [Nicolás Ortiz](https://www.your-site.com)
+- Website(not enabled) - [Nicolás Ortiz](#)
 - Frontend Mentor - [@nico-ortiz](https://www.frontendmentor.io/profile/nico-ortiz)
