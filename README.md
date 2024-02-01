@@ -12,7 +12,7 @@ Project to practice HTML and CSS
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [URL](https://github.com/nico-ortiz/qr-component)
 - Live Site URL: [Site](https://qr-component-lake.vercel.app/)
 
 ## My process
